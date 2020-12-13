@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ChuckNorrisJokes/static/css/main.ae3b9b6d.chunk.css",
+    "main.js": "/ChuckNorrisJokes/static/js/main.c0e38bd5.chunk.js",
+    "main.js.map": "/ChuckNorrisJokes/static/js/main.c0e38bd5.chunk.js.map",
+    "runtime-main.js": "/ChuckNorrisJokes/static/js/runtime-main.ea233fda.js",
+    "runtime-main.js.map": "/ChuckNorrisJokes/static/js/runtime-main.ea233fda.js.map",
+    "static/js/2.fa19d753.chunk.js": "/ChuckNorrisJokes/static/js/2.fa19d753.chunk.js",
+    "static/js/2.fa19d753.chunk.js.map": "/ChuckNorrisJokes/static/js/2.fa19d753.chunk.js.map",
+    "index.html": "/ChuckNorrisJokes/index.html",
+    "static/css/main.ae3b9b6d.chunk.css.map": "/ChuckNorrisJokes/static/css/main.ae3b9b6d.chunk.css.map",
+    "static/js/2.fa19d753.chunk.js.LICENSE.txt": "/ChuckNorrisJokes/static/js/2.fa19d753.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea233fda.js",
+    "static/js/2.fa19d753.chunk.js",
+    "static/css/main.ae3b9b6d.chunk.css",
+    "static/js/main.c0e38bd5.chunk.js"
+  ]
+}
